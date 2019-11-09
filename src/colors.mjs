@@ -1,8 +1,8 @@
 export default {
-  background1: '#0e0f15',
-  background2: '#14161e',
-  background3: '#1a1d27',
-  background4: '#2d303d',
+  background1: '#000000',
+  background2: '#000000',
+  background3: '#000000',
+  background4: '#000000',
   dim1: '#494c59',
   dim2: '#5e6173',
   dim3: '#88898f',
